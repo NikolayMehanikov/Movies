@@ -126,7 +126,7 @@ h2 {
 
 body {
     max-width: 100vw;
-    background-image: url(/img/background.svg);
+    background-image: url("../img/background.svg");
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
