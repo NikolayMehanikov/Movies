@@ -1,0 +1,764 @@
+@media only screen and (max-width: 1850px) {
+    body {
+        max-width: 100vw;
+        height: 115vh;
+    }
+    .cards {
+        top: 28.56vw;
+    }
+    .cards-2 {
+        top: 30vw;
+    }
+}
+
+@media only screen and (max-width: 1650px) {
+    body {
+        max-width: 100vw;
+        height: 135vh;
+    }
+    .movies {
+        left: 73.50vw;
+    }
+    .tv-shows {
+        left: 80.50vw;
+    }
+    .suggest-me {
+        left: 88.50vw;
+    }
+    .cards {
+        top: 30.56vw;
+    }
+    .cards-2 {
+        top: 32vw;
+    }
+}
+
+@media only screen and (max-width: 1550px) {
+    body {
+        max-width: 100vw;
+        height: 115vh;
+    }
+    .movies {
+        left: 72.50vw;
+    }
+    .tv-shows {
+        left: 78.50vw;
+    }
+    .suggest-me {
+        left: 85.50vw;
+    }
+    .cards {
+        top: 33.56vw;
+    }
+    .cards-2 {
+        top: 35vw;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    body {
+        max-width: 100vw;
+        height: 115vh;
+    }
+    .movies {
+        left: 68.50vw;
+    }
+    .tv-shows {
+        left: 76.50vw;
+    }
+    .suggest-me {
+        left: 85.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 38.56vw;
+    }
+    .cards-2 {
+        gap: 20px;
+        top: 40vw;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    body {
+        max-width: 100vw;
+        height: 115vh;
+    }
+    .movies {
+        left: 67.50vw;
+    }
+    .tv-shows {
+        left: 75.50vw;
+    }
+    .suggest-me {
+        left: 85.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 38.56vw;
+    }
+    .cards-2 {
+        top: 40vw;
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    body {
+        max-width: 100vw;
+        height: 142vh;
+    }
+    .movies {
+        left: 62.50vw;
+    }
+    .tv-shows {
+        left: 72.50vw;
+    }
+    .suggest-me {
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 41.56vw;
+    }
+    .cards-2 {
+        top: 44vw;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        height: 220vh;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    body {
+        max-width: 100vw;
+        height: 142vh;
+    }
+    .movies {
+        left: 62.50vw;
+    }
+    .tv-shows {
+        left: 72.50vw;
+    }
+    .suggest-me {
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 45.56vw;
+    }
+    .cards-2 {
+        top: 48vw;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+    body {
+        max-width: 100vw;
+        height: 130 vh;
+    }
+    .movies {
+        left: 62.50vw;
+    }
+    .tv-shows {
+        left: 72.50vw;
+    }
+    .suggest-me {
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 48.56vw;
+    }
+    .cards-2 {
+        top: 52vw;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        width: 100vw;
+        height: 1400px;
+    }
+    .cards {}
+}
+
+@media only screen and (max-width: 992px) {
+    body {
+        max-width: 100vw;
+        height: 130 vh;
+    }
+    .movies {
+        left: 62.50vw;
+    }
+    .tv-shows {
+        left: 72.50vw;
+    }
+    .suggest-me {
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 50.56vw;
+        width: 85%;
+    }
+    .cards-2 {
+        width: 85%;
+        top: 55vw;
+    }
+}
+
+@media only screen and (max-width: 935px) {
+    body {
+        max-width: 100vw;
+        height: 150vh;
+    }
+    .movies {
+        left: 62.50vw;
+    }
+    .tv-shows {
+        left: 72.50vw;
+    }
+    .suggest-me {
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 55.56vw;
+        width: 85%;
+    }
+    .cards-2 {
+        width: 85%;
+        top: 58vw;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    body {
+        max-width: 100vw;
+        height: 140vh;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 60.56vw;
+        width: 85%;
+    }
+    .cards-2 {
+        width: 85%;
+        top: 65vw;
+    }
+}
+
+@media only screen and (max-width: 776px) {
+    body {
+        max-width: 100vw;
+        height: 140vh;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 65.56vw;
+        width: 88%;
+    }
+    .cards-2 {
+        width: 88%;
+        top: 70vw;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    body {
+        max-width: 100vw;
+        height: 130vh;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 70.56vw;
+        width: 88%;
+    }
+    .cards-2 {
+        width: 88%;
+        top: 75vw;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    body {
+        max-width: 100vw;
+        height: 240vh;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 20px;
+        top: 75.56vw;
+        width: 92%;
+        left: 14px;
+    }
+    .cards-2 {
+        width: 92%;
+        top: 472px;
+        left: 14px;
+    }
+    .card {
+        position: absolute;
+        top: 15px;
+        left: 0vw;
+    }
+    .card-1 {
+        position: absolute;
+        top: 15px;
+        left: 45vw;
+    }
+    .card-2 {
+        position: absolute;
+        top: 520px;
+        left: 0vw;
+    }
+    .card-3 {
+        position: absolute;
+        top: 520px;
+        left: 45vw;
+    }
+    .card-4 {
+        position: absolute;
+        top: 1060px;
+        left: 0vw;
+    }
+    .card-5 {
+        position: absolute;
+        top: 1060px;
+        left: 45vw;
+    }
+    .card-6 {
+        position: absolute;
+        top: 1560px;
+        left: 0vw;
+    }
+    .card-7 {
+        position: absolute;
+        top: 1560px;
+        left: 45vw;
+    }
+}
+
+@media only screen and (max-width: 610px) {
+    body {
+        max-width: 100vw;
+        height: 320vh;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 50px;
+        top: 80.56vw;
+        width: 88%;
+        left: 0vw;
+    }
+    .cards-2 {
+        width: 88%;
+        top: 80vw;
+    }
+    .card {
+        position: absolute;
+        top: 15px;
+        left: -3vw;
+    }
+    .card-1 {
+        position: absolute;
+        top: 15px;
+        left: 45vw;
+    }
+    .card-2 {
+        position: absolute;
+        top: 520px;
+        left: -3vw;
+    }
+    .card-3 {
+        position: absolute;
+        top: 520px;
+        left: 45vw;
+    }
+    .card-4 {
+        position: absolute;
+        top: 1060px;
+        left: -5vw;
+    }
+    .card-5 {
+        position: absolute;
+        top: 1060px;
+        left: 43vw;
+    }
+    .card-6 {
+        position: absolute;
+        top: 1560px;
+        left: -5vw;
+    }
+    .card-7 {
+        position: absolute;
+        top: 1560px;
+        left: 43vw;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    body {
+        overflow-x: hidden;
+        max-width: 100vw;
+        height: 5400px;
+    }
+    .movies {
+        display: none;
+        left: 62.50vw;
+    }
+    .tv-shows {
+        display: none;
+        left: 72.50vw;
+    }
+    .suggest-me {
+        display: none;
+        left: 83.50vw;
+    }
+    .cards {
+        gap: 50px;
+        top: 80.56vw;
+        width: 100%;
+        left: 0vw;
+    }
+    .cards-2 {
+        width: 100%;
+        top: 80vw;
+    }
+    .card {
+        position: absolute;
+        top: 60px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-1 {
+        position: absolute;
+        top: 670px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-2 {
+        position: absolute;
+        top: 1280px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-3 {
+        position: absolute;
+        top: 1890px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-4 {
+        position: absolute;
+        top: 2500px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-5 {
+        position: absolute;
+        top: 3110px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-6 {
+        position: absolute;
+        top: 3720px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-7 {
+        position: absolute;
+        top: 4330px;
+        left: 17.5vw;
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    body {
+        overflow-x: hidden;
+        max-width: 100vw;
+        height: 4500px;
+    }
+    .search {
+        top: 350px;
+        width: 50vw;
+    }
+    .cards {
+        gap: 50px;
+        top: 92.56vw;
+        width: 100%;
+        left: 0vw;
+    }
+    .cards-2 {
+        width: 100%;
+        top: -55vw;
+    }
+    .card {
+        position: absolute;
+        top: 60px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-1 {
+        position: absolute;
+        top: 620px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-2 {
+        position: absolute;
+        top: 1180px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-3 {
+        position: absolute;
+        top: 1180px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-4 {
+        position: absolute;
+        top: 2500px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-5 {
+        position: absolute;
+        top: 3050px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-6 {
+        position: absolute;
+        top: 3600px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-7 {
+        position: absolute;
+        top: 4150px;
+        left: 17.5vw;
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    body {
+        overflow-x: hidden;
+        max-width: 100vw;
+        height: 4400px;
+    }
+    .name {
+        font-size: 48px;
+    }
+    .description-name {
+        width: 400px;
+    }
+    .search {
+        top: 370px;
+        width: 50vw;
+    }
+    .cards {
+        gap: 50px;
+        top: 105.56vw;
+        width: 100%;
+        left: -3vw;
+    }
+    .cards-2 {
+        width: 100%;
+        top: -90vw;
+        left: -1vw;
+    }
+    .card {
+        position: absolute;
+        top: 60px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-1 {
+        position: absolute;
+        top: 530px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-2 {
+        position: absolute;
+        top: 1000px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-3 {
+        position: absolute;
+        top: 1470px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-4 {
+        position: absolute;
+        top: 2800px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-5 {
+        position: absolute;
+        top: 3270px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-6 {
+        position: absolute;
+        top: 3740px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-7 {
+        position: absolute;
+        top: 4210px;
+        left: 17.5vw;
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    body {
+        overflow-x: hidden;
+        max-width: 100vw;
+        height: 3950px;
+    }
+    .name {
+        font-size: 48px;
+    }
+    .description-name {
+        width: 320px;
+    }
+    .search {
+        top: 380px;
+        width: 50vw;
+    }
+    .all {
+        top: 455px;
+    }
+    .cards {
+        gap: 50px;
+        top: 120.56vw;
+        width: 100%;
+        left: 0vw;
+    }
+    .cards-2 {
+        width: 100%;
+        top: -90vw;
+        left: 3vw;
+    }
+    .card {
+        position: absolute;
+        top: 60px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-1 {
+        position: absolute;
+        top: 480px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-2 {
+        position: absolute;
+        top: 900px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-3 {
+        position: absolute;
+        top: 1320px;
+        left: 20vw;
+        width: 60%;
+    }
+    .card-4 {
+        position: absolute;
+        top: 2560px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-5 {
+        position: absolute;
+        top: 2980px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-6 {
+        position: absolute;
+        top: 3400px;
+        left: 17.5vw;
+        width: 60%;
+    }
+    .card-7 {
+        position: absolute;
+        top: 3825px;
+        left: 17.5vw;
+        width: 60%;
+    }
+}

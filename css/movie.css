@@ -1,0 +1,305 @@
+/* Reset and base styles  */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+
+/* Links */
+
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* Common */
+
+aside,
+nav,
+footer,
+header,
+section,
+main {
+    display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+ul,
+ul li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+img,
+svg {
+    max-width: 100%;
+    height: auto;
+}
+
+address {
+    font-style: normal;
+}
+
+
+/* Form */
+
+input,
+textarea,
+button,
+select {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background-color: transparent;
+}
+
+input::-ms-clear {
+    display: none;
+}
+
+button,
+input[type="submit"] {
+    display: inline-block;
+    box-shadow: none;
+    background-color: transparent;
+    background: none;
+    cursor: pointer;
+}
+
+input:focus,
+input:active,
+button:focus,
+button:active {
+    outline: none;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+label {
+    cursor: pointer;
+}
+
+legend {
+    display: block;
+}
+
+* {
+    margin: auto;
+    padding: 0px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    max-width: 1920px;
+    background-image: url(/img/background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    position: relative;
+}
+
+
+/*NAV*/
+
+
+/*NAV*/
+
+
+/*NAV*/
+
+
+/*NAV*/
+
+.logo {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: flex-start;
+    gap: 8px;
+    flex-shrink: 0;
+    position: absolute;
+    left: 120px;
+    top: 20px;
+}
+
+.movies {
+    max-width: 60px;
+    color: var(--grey-200, #A8AEBF);
+    /* Link/Regular */
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+    font-family: 'PT Sans Caption', sans-serif;
+    position: absolute;
+    left: 1392px;
+    top: 28px;
+}
+
+.tv-shows {
+    color: var(--grey-200, #A8AEBF);
+    /* Link/Regular */
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+    position: absolute;
+    left: 1499px;
+    top: 28px;
+}
+
+.suggest-me {
+    color: var(--grey-200, #A8AEBF);
+    /* Link/Regular */
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+    position: absolute;
+    left: 1643px;
+    top: 28px;
+}
+
+
+/*HEADER*/
+
+
+/*HEADER*/
+
+
+/*HEADER*/
+
+
+/*HEADER*/
+
+.preview {
+    width: 1200px;
+    height: 480px;
+    flex-shrink: 0;
+    position: relative;
+    top: 124px;
+    left: 360px;
+    border-radius: 1.5rem;
+}
+
+.name {
+    display: flex;
+    width: 560px;
+    padding: 40px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 500px;
+    left: 450px;
+}
+
+.movie-logo {
+    width: 480px;
+    height: 772px;
+    position: absolute;
+    top: 752px;
+    left: 240px;
+    border-radius: 1.5rem;
+}
+
+h1 {
+    color: var(--grey-50, #EBEEF5);
+    /* Heading/H4 */
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    font-family: 'PT Sans Caption', sans-serif;
+    /* 133.333% */
+    letter-spacing: -0.36px;
+    position: absolute;
+    top: 752px;
+    left: 1000px;
+}
+
+p {
+    max-height: auto;
+    max-width: 480px;
+    font-family: 'PT Sans Caption', sans-serif;
+    color: var(--grey-300, #8E95A9);
+    /* Body/Large */
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    position: absolute;
+    top: 808px;
+    left: 1000px;
+}
+
+.rating {
+    width: 59px;
+    position: absolute;
+    top: 1000px;
+    left: 1000px;
+}
+
+.release {
+    position: absolute;
+    top: 1050px;
+    left: 1000px;
+}
+
+.release-date {
+    position: absolute;
+    top: 1090px;
+    left: 1000px;
+}
+
+.watch {
+    position: absolute;
+    top: 1150px;
+    left: 998px;
+}
